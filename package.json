@@ -1,0 +1,28 @@
+{
+  "name": "web-design-portfolio-app",
+  "version": "1.0.0",
+  "description": "This is a web design portfolio app built with React, Bootstrap, JQuery, AnimeJS, ChartsJS etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "start-wdp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsadisxn/web-design-portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "react"
+  ],
+  "author": "Aditya Saxena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsadisxn/web-design-portfolio/issues"
+  },
+  "homepage": "https://github.com/itsadisxn/web-design-portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "react-bootstrap": "^1.0.1",
+    "react-router-dom": "^5.2.0"
+  }
+}
